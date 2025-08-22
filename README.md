@@ -77,7 +77,7 @@
 
 [![Live Website](https://img.shields.io/badge/🌐%20Portfolio-Visit%20Now-success?style=for-the-badge&logo=netlify)](https://portfolio-pradyumna-website.netlify.app/)
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-05122A?style=flat&logo=linkedin)](https://linkedin.com/in/pradyumna744)&nbsp;
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-05122A?style=flat&logo=linkedin)](https://www.linkedin.com/in/kalpesh-mahajan-b12544204/)&nbsp;
 [![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)](https://github.com/mahajankalpesh02)&nbsp;
 [![Email](https://img.shields.io/badge/-Email-05122A?style=flat&logo=gmail)](mailto:mahajankalpesh9657@gmail.com)&nbsp;
 
@@ -89,6 +89,5 @@
  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Pradyumna744&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>
-
 ---
-⭐️ From [Pradyumna744](https://github.com/mahajankalpesh02) | 🚀 Building the future with AI
+⭐️ From [MahajanKalpesh02](https://github.com/mahajankalpesh02) | 🚀 Building the future with AI
